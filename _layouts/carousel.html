@@ -1,0 +1,55 @@
+---
+layout: base
+---
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="50000" data-wrap="true">
+
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>
+
+	<div class="carousel-inner">
+
+		<div class="item active">
+			<div class="showcase item" style="background-image: url(img/jumbotron-cg.png);">
+				<div class="container">
+					<div class="carousel-caption ">
+						Confidence Games
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="item">
+			<div class="showcase" style="background-image: url(img/jumbotron-moth.png);">
+				<div class="container">
+					<div class="carousel-caption">
+						Masters of the Heist
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="item">
+			<div class="showcase" style="background-image: url(img/jumbotron-jl.png);">
+				<div class="container">
+					<div class="carousel-caption">
+						Junk Land
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+		<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+	</div>
+</div>
+
+<div class="container">
+{{content}}
+
+{%include footer.html %}
+
+</div>
