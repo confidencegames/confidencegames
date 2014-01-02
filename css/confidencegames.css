@@ -3,7 +3,10 @@
 
 .logo-highlight{
 	color: #{{site.colors.moth_red}};
+}
 
+.logo-highlight2{
+  color: #{{site.colors.moth_blue}};
 }
 
 /* CUSTOM FONTS */
@@ -22,8 +25,8 @@
 -------------------------------------------------- */
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
-  background-color: black;
+  color: #333;
+  background-color: white;
   background-image: url(img/background.png); 
 }
 
@@ -68,6 +71,7 @@ body {
 .carousel {
   height: 600px;
   margin-bottom: 60px;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -123,7 +127,13 @@ body {
 }
 
 .moth-logo-big{
-	font-size: 125%;
+  font-size: 125%;
+}
+
+@media (min-width: 1000px){
+  .cg_smallbrand{
+    
+  }
 }
 
 
