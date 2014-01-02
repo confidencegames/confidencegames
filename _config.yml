@@ -5,4 +5,5 @@ pygments: true
 colors:
   moth_blue: 2c9087
   moth_red: b32c06
+  moth_cream: d9c787
 
