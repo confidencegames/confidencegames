@@ -3,6 +3,7 @@
 
 .logo-highlight{
 	color: #{{site.colors.moth_red}};
+  line-height: 20px;
 }
 
 .logo-highlight2{
@@ -201,6 +202,39 @@ body {
 }
 
 
+/* Parallax 
+------------*/
+.moth-parallax-bg{
+  background: url(/img/moth-parallax-bg.png) 50% 0 repeat fixed;
+  height: 300px;
+  min-height: 300px;
+  max-height: 300px;
+  position: relative;
+}
+
+.moth-parallax-bg article{
+  height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 100%; 
+}
+
+.moth-parallax-front{
+  /* 
+  background-image: url(/img/moth-parallax-front.png);
+  min-height: 300px;
+  max-height: 300px;
+  */
+}
+
+.moth-parallax-back{
+  /* 
+  background-image: url(/img/moth-parallax-back.png);
+  min-height: 300px;
+  max-height: 300px;
+  */
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
