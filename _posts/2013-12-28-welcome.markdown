@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "New website!"
+date:   2013-12-28 15:45:28
+categories: news
+---
+
+Welcome to Confidence Games! This is the online presence of my tabletop strategy games.
+
+Here's a little bit about me. I've been a game designer since I was a kid, but more serious about it now for about six years now. I've made a lot of games, most of which are shelved for future work. But, I've got a couple of games that I've just fallen in love with and so have many other people. I'm looking to build a community around these games so we can improve them, expand them, and ultimately disseminate them.
+
+I'm not at all about making money. I've observed the board game industry enough to know that even the greatest designers make a modest living. This isn't a business decision, it's a hobby decision. Any money I happen to make along the way will just go back into supporting my hobby anyway :)
+
+Well, go ahead and poke around!
+
+Sincerely,
+
+  Andy Meneely

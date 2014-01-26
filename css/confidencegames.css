@@ -192,6 +192,7 @@ body {
 
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  border-color: white;
 }
 
 /* Thin out the marketing headings */
@@ -278,7 +279,7 @@ body {
 
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
   .featurette-heading {
     margin-top: 120px;
   }
