@@ -19,6 +19,9 @@ body {
   background-image: url(img/background.png); 
 }
 
+footer{
+  margin-top: 150px;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
