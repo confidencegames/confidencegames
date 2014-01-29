@@ -107,6 +107,7 @@ footer{
 }
 
 .moth-showcase{
+  background-color: #000;
   background-image: url(/img/jumbotron-moth.png);
 }
 
@@ -134,6 +135,7 @@ footer{
 }
 
 .jl-showcase{
+  background-color: #222;
   background-image: url(/img/jumbotron-jl.png);
 }
 
