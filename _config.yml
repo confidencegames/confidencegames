@@ -1,6 +1,6 @@
 name: Confidence Games | Strategy tabletop games
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 
 colors:
   moth_blue: 2c9087
